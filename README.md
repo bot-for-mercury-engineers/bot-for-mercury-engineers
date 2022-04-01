@@ -7,7 +7,7 @@ I exist to help automate builds and deployments: in particular,
 my ~Robotical~ Personal Access Tokens allow NES-Digital-Service services to install from our private 
 GitHub package repository during CI/CD.
 
-My email is [nes.mercury-engineers@nhs.scot](nes.mercury-engineers@nhs.scot) which is a shared mailbox.
+📧 You can email be through the Mercury Engineers shared mailbox.
 
 My 1st job was to authenticate [respect.api](https://github.com/NES-Digital-Service/respect.api/) 
 so it could install the [node-openehr](https://github.com/nes-digital-service/node-openehr/packages) package
