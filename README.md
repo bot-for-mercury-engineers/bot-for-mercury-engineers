@@ -20,7 +20,6 @@ and its [`.npmrc`](https://github.com/NES-Digital-Service/respect.api/blob/c42e5
 >
 >  - a PAT to install packages associated with other private repositories (which GITHUB_TOKEN can't access)
 
-(a PAT to install packages associated with other private repositories (which GITHUB_TOKEN can't access).)
 
 
 <!---
